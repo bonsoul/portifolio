@@ -1,9 +1,9 @@
 # Data Scientist
 📍 Nairobi, Kenya 
 
-💻 Skilled: Machine & Deep Learning, Statistical & Data Analysis, Data Modelling, Data Visualization
+💻 Skilled: **Machine & Deep Learning, Statistical & Data Analysis, Data Modelling & Visualization**
 
-Technical : Python, R, C++,SQL
+Technical : **Python, R, C++,SQL**
  
 
 
