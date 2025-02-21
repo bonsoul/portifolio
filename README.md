@@ -1,2 +1,12 @@
-# aranibosire-AB-.github.io
-My Portfolio
+# Data Scientist
+
+
+#### Education
+Bachelor of Statistics and Information Technology
+
+
+#### Work Experience
+
+
+
+#### Projects
