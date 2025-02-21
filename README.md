@@ -40,6 +40,9 @@ Bachelor of Statistics and Information Technology   | ALX - Data Science
 
 Developed an automated approach for malaria detection by analyzing microscopic blood cell images through deep learning techniques. Leveraged a data-driven strategy to identify parasitized cells, significantly enhancing diagnostic capabilities for early malaria detection.Implemented Convolutional Neural Networks (CNNs) to classify blood cells as infected or uninfected. The system utilized a labeled dataset of cell images, followed by preprocessing steps like image augmentation and normalization to optimize model performance. The model was evaluated using metrics such as accuracy, precision, recall, and F1-score to ensure robustness.
 
+![Churn Prediction Graph](data_vis.png)
+
+
 **Customer Churn- Machine Learning**
  
 Developed a customer churn model for a telecom company using machine learning. Data was cleaned and preprocessed with **Pandas** and **NumPy**, and key churn factors like contract length, call duration, and billing methods were explored through **Seaborn** and **Matplotlib**. **Logistic Regression** and **Decision Trees** were applied, achieving **85% accuracy** with Decision Trees. **Power BI dashboard** to monitor churn in real-time, helping the company implement targeted retention strategies that reduced churn by **15%**.
