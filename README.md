@@ -24,7 +24,7 @@ Bachelor of Statistics and Information Technology
 
 ##### Data Analyst |MEAL Samburu Awareness Action Program  _SQL, Kobo Collect, Power BI Sept 2023 – Jan 2024_
  - Enhanced program effectiveness by 30%, measured by improved program outcomes and participant satisfaction, by using data analysis to assess what works and make necessary adjustments.
- -Increased transparency in reporting by 40%, measured by clearer and more impactful results presentations, by analyzing data to quantify the outcomes of initiatives and highlight successes and areas for improvement.
+ - Increased transparency in reporting by 40%, measured by clearer and more impactful results presentations, by analyzing data to quantify the outcomes of initiatives and highlight successes and areas for improvement.
 - Improved resource allocation efficiency by 20%, measured by reduced waste and increased project output, by analyzing data to determine the most effective use of funds, personnel, and materials.
   
 ##### Supply chain Analyst Intern | Inventory Management | Sendy Logistics  _Excel, Tableau, Report Writing May 2022 – Sept.2022_
