@@ -46,3 +46,7 @@ Developed an automated approach for malaria detection by analyzing microscopic b
 **Customer Churn- Machine Learning**
  
 Developed a customer churn model for a telecom company using machine learning. Data was cleaned and preprocessed with **Pandas** and **NumPy**, and key churn factors like contract length, call duration, and billing methods were explored through **Seaborn** and **Matplotlib**. **Logistic Regression** and **Decision Trees** were applied, achieving **85% accuracy** with Decision Trees. **Power BI dashboard** to monitor churn in real-time, helping the company implement targeted retention strategies that reduced churn by **15%**.
+
+**Reward Program Dashboard**
+
+I developed a Reward Program Dashboard by cleaning and merging multiple data sources to build a comprehensive dataset, removing duplicates and standardizing formats. I implemented an automated point allocation system that calculates points based on session participation, duration, and mentee engagement with transparent documentation. Finally, I created an interactive Power BI dashboard to visualize key insights, enabling data-driven recommendations that optimized the reward structure and boosted user retention.
