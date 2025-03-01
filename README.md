@@ -1,6 +1,8 @@
 # Data Scientist
 📍 Nairobi, Kenya 
 
+#### I have over three years of experience working with data, helping organizations make informed decisions by extracting actionable insights from raw data.I have a diverse background across various roles, allowing me to adapt and contribute effectively. My experience spans machine learning, data modeling, analysis, dashboards, and visualization—skills that align well with this role’s demands.As an experienced communicator and collaborator, I thrive in team environments. Beyond work, I’m passionate about farming, hiking, and reading classic literature.
+
 💻 Skilled: **Machine & Deep Learning, Statistical & Data Analysis, Data Modelling & Visualization**
 
 Technical : **Python, R, C++,SQL**
