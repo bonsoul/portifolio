@@ -1,7 +1,7 @@
 # Data Scientist
 📍 Nairobi, Kenya 
 
-#### I have over three years of experience working with data, helping organizations make informed decisions by extracting actionable insights from raw data.I have a diverse background across various roles, allowing me to adapt and contribute effectively. My experience spans machine learning, data modeling, analysis, dashboards, and visualization—skills that align well with this role’s demands.As an experienced communicator and collaborator, I thrive in team environments. Beyond work, I’m passionate about farming, hiking, and reading classic literature.
+#### I have over three years of experience working with data, helping organizations make informed decisions by extracting actionable insights from raw data and building data products(dashboards,predictive models, recomendation models as well).I have a diverse background across various roles, allowing me to adapt and contribute effectively. My experience spans machine learning, data modeling, analysis, dashboards, and visualization—skills that align well with this role’s demands.As an experienced communicator and collaborator, I thrive in team environments. Beyond work, I’m passionate about farming, hiking, and reading classic literature.
 
 💻 Skilled: **Machine & Deep Learning, Statistical & Data Analysis, Data Modelling & Visualization**
 
@@ -10,7 +10,7 @@ Technical : **Python, R, C++,SQL**
 
 
 ### Education
-Bachelor of Statistics and Information Technology   | ALX - Data Science
+Bachelor of Statistics and Information Technology   | ALX - Data Science | Udemy
 
 
 ### Work Experience
@@ -52,3 +52,7 @@ Developed a customer churn model for a telecom company using machine learning. D
 **Reward Program Dashboard**
 
 I developed a Reward Program Dashboard by cleaning and merging multiple data sources to build a comprehensive dataset, removing duplicates and standardizing formats. I implemented an automated point allocation system that calculates points based on session participation, duration, and mentee engagement with transparent documentation. Finally, I created an interactive Power BI dashboard to visualize key insights, enabling data-driven recommendations that optimized the reward structure and boosted user retention.
+
+**KIVA Loans Analysis & Modelling** [KIVA ANALYSIS](https://bonsoul.github.io/KIVA_ANALYSIS-AND-MODELLING/)
+
+Analyzed the relationship between poverty levels and microloan distribution in Kenya using Kiva microfinance data. Utilized statistical modeling and geospatial mapping in R to assess loan effectiveness across counties. Identified disparities in loan distribution, highlighting gaps in financial access for rural communities. Provided insights on strategic microfinance allocations to enhance poverty alleviation efforts.
