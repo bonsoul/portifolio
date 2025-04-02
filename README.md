@@ -53,6 +53,6 @@ Developed a customer churn model for a telecom company using machine learning. D
 
 I developed a Reward Program Dashboard by cleaning and merging multiple data sources to build a comprehensive dataset, removing duplicates and standardizing formats. I implemented an automated point allocation system that calculates points based on session participation, duration, and mentee engagement with transparent documentation. Finally, I created an interactive Power BI dashboard to visualize key insights, enabling data-driven recommendations that optimized the reward structure and boosted user retention.
 
-**KIVA Loans Analysis & Modelling** [KIVA ANALYSIS](https://bonsoul.github.io/KIVA_ANALYSIS-AND-MODELLING/)
+**KIVA Loans Analysis & Modelling**
 
 Analyzed the relationship between poverty levels and microloan distribution in Kenya using Kiva microfinance data. Utilized statistical modeling and geospatial mapping in R to assess loan effectiveness across counties. Identified disparities in loan distribution, highlighting gaps in financial access for rural communities. Provided insights on strategic microfinance allocations to enhance poverty alleviation efforts.
