@@ -4,3 +4,5 @@ logo: WhatsApp Image 2025-02-21 at 14.35.25.jpeg
 show_downloads: false
 theme: jekyll-theme-slate
 
+source 'https://rubygems.org'
+gem 'jekyll', '~> 4.3.2'
