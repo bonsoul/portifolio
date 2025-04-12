@@ -2,7 +2,6 @@ title: Arani Bosire(AB) - DATA SCIENTIST
 logo: WhatsApp Image 2025-02-21 at 14.35.25.jpeg
 #description: Experienced data scientist with 3+ years of expertise in machine learning, statistical analysis, and Python development, delivering impactful solutions that drive business growth and empower teams.
 show_downloads: false
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
 
-source 'https://rubygems.org'
-gem 'jekyll', '~> 4.3.2'
+
