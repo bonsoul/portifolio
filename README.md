@@ -1,7 +1,9 @@
+*From data to decisions — powering progress through intelligent insights.*
+
 # Data Scientist
 📍 Nairobi, Kenya 
 
-#### I have over three years of experience working with data, helping organizations make informed decisions by extracting actionable insights from raw data and building data products(dashboards,predictive models, recomendation models as well).I have a diverse background across various roles, allowing me to adapt and contribute effectively. My experience spans machine learning, data modeling, analysis, dashboards, and visualization—skills that align well with this role’s demands.As an experienced communicator and collaborator, I thrive in team environments. Beyond work, I’m passionate about farming, hiking, and reading classic literature.
+#### I’m passionate about using data to make a difference — whether it’s improving lives through health diagnostics, modeling public health crises, or empowering teams with smarter business intelligence. I see data as a powerful canvas for insight and innovation, and I thrive on uncovering stories hidden in numbers. Skilled in Python, SQL, machine learning, and data visualization, I specialize in building scalable models, interactive dashboards, and end-to-end pipelines that unlock value across diverse sectors — from logistics to healthcare. Whether I’m predicting customer behavior, analyzing complex systems, or diagnosing disease using AI, I approach each project with curiosity, strategic thinking, and a strong drive for meaningful impact. My work is grounded in technical precision and fueled by a desire to build data solutions that not only inform — but truly empower people, organizations, and communities.
 
 💻 Skilled: **Machine & Deep Learning, Statistical & Data Analysis, Data Modelling & Visualization**
 
