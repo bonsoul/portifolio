@@ -1,5 +1,4 @@
-# Hola, I'm  Arani B. Bosire
-## Data Scientist | Analyst
+# 👋 Hola, I'm a Data Scientist | Analyst 🧠📊
 ### 📍 Nairobi, Kenya | 📧 bonsoul24@gmail.com | 📞 +254 700 015600
 
 
@@ -84,14 +83,14 @@ Built Excel forecasts reducing excess inventory by 8%.
 Maintained Tableau dashboards for real-time insights.
 
 # 📚 Education
-#### BSc. Statistics, Computing & IT - Cooperative University of Kenya
+BSc. Statistics, Computing & IT - Cooperative University of Kenya
 
-#### ALX Data Science Program - Python · SQL · Data Viz · ML · Power BI
+ALX Data Science Program - Python · SQL · Data Viz · ML · Power BI
 
-#### Udemy Certifications - Machine Learning, Analytics, Storytelling, Data Engineering
+Udemy Certifications - Machine Learning, Analytics, Storytelling, Data Engineering
 
 # 🎖️ Leadership & Volunteering
-#### Global Citizens Challenge (Team Lead): Led a diverse team in global sustainability challenges.
+Global Citizens Challenge (Team Lead): Led a diverse team in global sustainability challenges.
 
-#### Men’s Book Club (Moderator): Managed sessions, facilitated critical discussions, promoted learning.
+Men’s Book Club (Moderator): Managed sessions, facilitated critical discussions, promoted learning.
 
