@@ -3,7 +3,7 @@
 
 
 # 🌟 About Me
-### From data to decisions — powering progress through intelligent insights.I’m a results-oriented Data Scientist passionate about transforming data into tools for innovation and sustainable impact. With 3+ years of experience across public health, logistics, and research, I specialize in machine learning, data visualization, and statistical modeling. Whether it’s predicting outbreaks or improving business decisions, I build data solutions that empower people and organizations alike.
+### From data to decisions — powering progress through intelligent insights.I’m a results-oriented Data Scientist passionate about transforming data into tools for innovation and sustainable impact. With hands-on experience across public health, logistics, and research, I specialize in machine learning, data visualization, and statistical modeling. Whether it’s predicting outbreaks or improving business decisions, I build data solutions that empower people and organizations alike.
 
 # 🧠 Skills
 ### 🧰 Technical
