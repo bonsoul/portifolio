@@ -1,60 +1,97 @@
-*From data to decisions — powering progress through intelligent insights.*
-
-# Data Scientist
-📍 Nairobi, Kenya 
-
-#### I’m passionate about using data to make a difference — whether it’s improving lives through health diagnostics, modeling public health crises, or empowering teams with smarter business intelligence. I see data as a powerful canvas for insight and innovation, and I thrive on uncovering stories hidden in numbers. Skilled in Python, SQL, machine learning, and data visualization, I specialize in building scalable models, interactive dashboards, and end-to-end pipelines that unlock value across diverse sectors — from logistics to healthcare. Whether I’m predicting customer behavior, analyzing complex systems, or diagnosing disease using AI, I approach each project with curiosity, strategic thinking, and a strong drive for meaningful impact. My work is grounded in technical precision and fueled by a desire to build data solutions that not only inform — but truly empower people, organizations, and communities.
-
-💻 Skilled: **Machine & Deep Learning, Statistical & Data Analysis, Data Modelling & Visualization**
-
-Technical : **Python, R, C++,SQL**
- 
+# Hola, I'm  Arani B. Bosire
+## Data Scientist | Analyst
+### 📍 Nairobi, Kenya | 📧 bonsoul24@gmail.com | 📞 +254 700 015600
 
 
-### Education
-Bachelor of Statistics and Information Technology   | ALX - Data Science | Udemy
+# 🌟 About Me
+### From data to decisions — powering progress through intelligent insights.I’m a results-oriented Data Scientist passionate about transforming data into tools for innovation and sustainable impact. With 3+ years of experience across public health, logistics, and research, I specialize in machine learning, data visualization, and statistical modeling. Whether it’s predicting outbreaks or improving business decisions, I build data solutions that empower people and organizations alike.
+
+# 🧠 Skills
+### 🧰 Technical
+#### Python · R · SQL · C++ · Power BI · Tableau · TensorFlow · PyTorch · Scikit-learn · Keras · PostgreSQL · Azure AI Studio · Kobo Collect
+
+### 📊 Analytical
+#### Statistical Modeling · Forecasting · Hypothesis Testing · Data Visualization · A/B Testing · Time Series · Epidemiological Analytics
+
+### 🤝 Soft Skills
+#### Problem Solving · Critical Thinking · Business Acumen · Communication · Teamwork · Leadership · Presentation
+
+# 🧪 Projects and Case Studies
+##  1. Statistical Modeling & Health Analytics
+
+### Cholera Surveillance & Forecasting (Kenya)
+Conducted time series analysis on cholera case data across Kenyan counties, integrating environmental and demographic variables. Built an interactive dashboard and a seasonal ARIMA model in R to forecast future outbreaks, improving preparedness and reducing regional response time by up to 30%.
+
+### HIV/AIDS Transmission Risk Modeling
+Investigated HIV/AIDS transmission patterns using national health datasets. Employed logistic regression and chi-square tests to analyze the relationship between socio-demographic factors (e.g., education levels, marital status) and infection risk, revealing statistically significant disparities across counties. Results informed targeted community-based interventions.
+
+### Quality of Pediatric Clinical Assessment – Nyeri, Kenya
+This study aimed to assess the quality of clinical assessment provided to sick children aged 2–59 months in primary health facilities in Nyeri County. It examined both the clinical care delivered and caregiver satisfaction, while exploring the relationship between the two. Using structured facility assessments and caregiver interviews, the study applied descriptive statistics, cross-tabulations, and logistic regression to evaluate the quality of care and identify key factors influencing caregiver perceptions. The insights generated informed recommendations for enhancing pediatric service delivery and strengthening caregiver engagement in rural healthcare settings.
+
+## 2. Machine Learning Projects
+
+### Malaria Detection Using CNNs
+Built a deep learning model using Convolutional Neural Networks (CNNs) to classify infected vs. uninfected blood cells from microscope images. Applied image augmentation and performance tuning to achieve high accuracy for early disease diagnosis.
+
+### Cotton Disease Detection (PyTorch)
+Developed a classification model using PyTorch to detect plant diseases from leaf images. Applied transfer learning with ResNet, improving accuracy by over 20% after optimizing preprocessing and hyperparameters.
+
+### Content-Based Recommendation System
+Built a recommendation engine using Python to suggest products based on user behavior and preferences. Integrated cosine similarity and TF-IDF vectorization to personalize suggestions for e-commerce users.
+
+## 📊 3. Data Analysis & Dashboarding
+
+### NGO Reporting System & Power BI Dashboard
+Designed and implemented a comprehensive PostgreSQL database to centralize program monitoring data for a local NGO. Built end-to-end ETL pipelines and connected the database to Power BI to automate reporting. Developed a dynamic dashboard to track KPIs, visualize program reach, and generate donor-ready impact reports — significantly improving reporting efficiency and transparency.
+
+### Customer Churn Analysis (Telco)
+Analyzed telecom customer behavior using Pandas, NumPy, and Seaborn to identify churn drivers. Trained and tested models (Logistic Regression, Decision Trees) achieving 85% accuracy. Developed a real-time Power BI dashboard to monitor churn trends, enabling targeted customer retention strategies that reduced churn by 15%.
+
+### Sales Performance Dashboard
+Built a dynamic sales dashboard in Power BI that tracked revenue, conversion rates, and sales rep performance across regions. Integrated data from Excel, SQL, and CRM systems. Delivered actionable insights that led to a 15% increase in regional sales performance within 3 months.
 
 
-### Work Experience
-##### Data Scientist | Upwork _Machine Learning Models, Python, SQL Jan 2023 – Present_
- - Enhanced client process efficiency by 25% through the development and implementation of machine learning models, tailored to optimize specific business objectives.
- - Increased model performance by 30% by utilizing advanced machine learning libraries such as TensorFlow and PyTorch, focusing on clustering, training, testing, and evaluation techniques.
 
-##### Data Verifier Lead | Selistar Africa  _Data Verification, Quality Assurance, Team Training Oct 2024 – Dec 2024_
- - Improved data quality by 25% through the implementation of rigorous verification protocols and structured data validation workflows to identify and resolve inconsistencies.
- - Trained and supported 10+ data verification specialists, reducing reporting errors by 20% through audits, feedback sessions, and automated error detection.
+# 💼 Experience
+### 🔬 Research Analyst – Motiri Consultants 📍 Nairobi | Mar 2025 – Present
 
-##### Machine Learning Intern | Technohacks  _TensorFlow, Keras, PyTorch, Azure AI Studio June 2024 – Sept 2024_
- - Achieved a 15% improvement in student performance prediction accuracy by developing and implementing machine learning models using Python and TensorFlow to analyze large datasets and extract insights.
- - Boosted model reliability by 20% through collaboration with educators, developers, and data analysts to improve model performance using advanced preprocessing techniques and statistical analysis.
+Led modeling and analysis for cholera and HIV/AIDS surveillance.
 
-##### Data Analyst |MEAL Samburu Awareness Action Program  _SQL, Kobo Collect, Power BI Sept 2023 – Jan 2024_
- - Enhanced program effectiveness by 30%, measured by improved program outcomes and participant satisfaction, by using data analysis to assess what works and make necessary adjustments.
- - Increased transparency in reporting by 40%, measured by clearer and more impactful results presentations, by analyzing data to quantify the outcomes of initiatives and highlight successes and areas for improvement.
-- Improved resource allocation efficiency by 20%, measured by reduced waste and increased project output, by analyzing data to determine the most effective use of funds, personnel, and materials.
-  
-##### Supply chain Analyst Intern | Inventory Management | Sendy Logistics  _Excel, Tableau, Report Writing May 2022 – Sept.2022_
- - Reduced excess inventory by 8% through the use of Excel forecasting techniques, optimizing inventory levels and minimizing waste.
- - Enhanced real-time visibility and decision-making by maintaining Tableau dashboards, providing up-to-date insights into inventory status. Increased process consistency and facilitated knowledge transfer by documenting supply chain procedures.
+Built time series models and visual dashboards for outbreak forecasting (↑ preparedness by 30%).
 
+### 💻 Freelance Data Scientist – Upwork 🌍 Remote | Jan 2024 – Feb 2025
 
-### Projects
+Built ML models (classification, recommendation) with Python & Scikit-learn.
 
-**Malaria Detection Using Deep Learning**
+Developed automated pipelines using PostgreSQL and deployed dashboards in R.
 
-Developed an automated approach for malaria detection by analyzing microscopic blood cell images through deep learning techniques. Leveraged a data-driven strategy to identify parasitized cells, significantly enhancing diagnostic capabilities for early malaria detection.Implemented Convolutional Neural Networks (CNNs) to classify blood cells as infected or uninfected. The system utilized a labeled dataset of cell images, followed by preprocessing steps like image augmentation and normalization to optimize model performance. The model was evaluated using metrics such as accuracy, precision, recall, and F1-score to ensure robustness.
+### 🤖 ML Intern – Technohacks Education  🌍 Remote | Jun 2024 – Sept 2024
 
-![Churn Prediction Graph](data_vis.png)
+Preprocessed and structured data for TensorFlow/Keras models.
 
+Tuned parameters and boosted model accuracy by 10%.
 
-**Customer Churn- Machine Learning**
- 
-Developed a customer churn model for a telecom company using machine learning. Data was cleaned and preprocessed with **Pandas** and **NumPy**, and key churn factors like contract length, call duration, and billing methods were explored through **Seaborn** and **Matplotlib**. **Logistic Regression** and **Decision Trees** were applied, achieving **85% accuracy** with Decision Trees. **Power BI dashboard** to monitor churn in real-time, helping the company implement targeted retention strategies that reduced churn by **15%**.
+### 📈 Data Analyst – Samburu Awareness Action Program 📍 Samburu | Apr 2023 – Jan 2024
 
-**Reward Program Dashboard**
+Designed centralized data systems with Kobo Collect + SQL.
 
-I developed a Reward Program Dashboard by cleaning and merging multiple data sources to build a comprehensive dataset, removing duplicates and standardizing formats. I implemented an automated point allocation system that calculates points based on session participation, duration, and mentee engagement with transparent documentation. Finally, I created an interactive Power BI dashboard to visualize key insights, enabling data-driven recommendations that optimized the reward structure and boosted user retention.
+Improved program outcomes by 25% via data-informed strategies.
 
-**KIVA Loans Analysis & Modelling**
+### 🚚 Supply Chain Analyst Intern – Sendy Logistics 📍 Nairobi | May 2022 – Sept 2022
 
-Analyzed the relationship between poverty levels and microloan distribution in Kenya using Kiva microfinance data. Utilized statistical modeling and geospatial mapping in R to assess loan effectiveness across counties. Identified disparities in loan distribution, highlighting gaps in financial access for rural communities. Provided insights on strategic microfinance allocations to enhance poverty alleviation efforts.
+Built Excel forecasts reducing excess inventory by 8%.
+
+Maintained Tableau dashboards for real-time insights.
+
+# 📚 Education
+### BSc. Statistics, Computing & IT - Cooperative University of Kenya
+
+### ALX Data Science Program - Python · SQL · Data Viz · ML · Power BI
+
+### Udemy Certifications - Machine Learning, Analytics, Storytelling, Data Engineering
+
+# 🎖️ Leadership & Volunteering
+#### Global Citizens Challenge (Team Lead): Led a diverse team in global sustainability challenges.
+
+#### Men’s Book Club (Moderator): Managed sessions, facilitated critical discussions, promoted learning.
+
