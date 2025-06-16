@@ -3,17 +3,19 @@
 
 
 # 🌟 About Me
-### From data to decisions — powering progress through intelligent insights.I’m a results-oriented Data Scientist passionate about transforming data into tools for innovation and sustainable impact. With hands-on experience across public health, logistics, and research, I specialize in machine learning, data visualization, and statistical modeling. Whether it’s predicting outbreaks or improving business decisions, I build data solutions that empower people and organizations alike.
+*From data to decisions — powering progress through intelligent insights.*
+
+#### I’m a results-oriented Data Scientist passionate about transforming data into tools for innovation and sustainable impact. With hands-on experience across public health, logistics, and research, I specialize in machine learning, data visualization, and statistical modeling. Whether it’s predicting outbreaks or improving business decisions, I build data solutions that empower people and organizations alike.
 
 # 🧠 Skills
 ### 🧰 Technical
 #### Python · R · SQL · C++ · Power BI · Tableau · TensorFlow · PyTorch · Scikit-learn · Keras · PostgreSQL · Azure AI Studio · Kobo Collect
 
 ### 📊 Analytical
-#### Statistical Modeling · Forecasting · Hypothesis Testing · Data Visualization · A/B Testing · Time Series · Epidemiological Analytics
+#### Statistical Modeling · Forecasting · Hypothesis Testing · Data Visualization · A/B Testing · Time Series · Epidemiological Analytics · Data Modelling
 
 ### 🤝 Soft Skills
-#### Problem Solving · Critical Thinking · Business Acumen · Communication · Teamwork · Leadership · Presentation
+#### Problem Solving · Critical Thinking · Business Acumen · Communication · Teamwork · Leadership · Presentation · Data Storytelling
 
 # 🧪 Projects and Case Studies
 ##  1. Statistical Modeling & Health Analytics
