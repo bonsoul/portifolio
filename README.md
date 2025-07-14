@@ -54,7 +54,7 @@ Built a dynamic sales dashboard in Power BI that tracked revenue, conversion rat
 
 
 # 💼 Experience
-### 🔬 Research Analyst – Motiri Consultants 📍 Nairobi | Mar 2025 – Present
+### 🔬 Research Analyst – Zoonotic Disease Unit 📍 Nairobi | Mar 2025 – Present
 
 Led modeling and analysis for cholera and HIV/AIDS surveillance.
 
