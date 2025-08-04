@@ -54,11 +54,6 @@ Built a dynamic sales dashboard in Power BI that tracked revenue, conversion rat
 
 
 # 💼 Experience
-### 🔬 Research Analyst – Zoonotic Disease Unit 📍 Nairobi | Mar 2025 – Present
-
-Led modeling and analysis for cholera and HIV/AIDS surveillance.
-
-Built time series models and visual dashboards for outbreak forecasting (↑ preparedness by 30%).
 
 ### 💻 Freelance Data Scientist – Upwork 🌍 Remote | Jan 2024 – Feb 2025
 
