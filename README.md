@@ -18,23 +18,23 @@
 
 #### I solve problems using data—applying machine learning, visualization, and statistical modeling across business, public health, logistics, and research to drive innovation and impact.
 
-- **Data Analysis & Visualization**: Build interactive dashboards, extract insights, and produce reports using **Excel**, **Tableau**, and **Power BI**.  
+- **Data Analysis & Visualization**: Build interactive dashboards, extract insights, and produce reports using Excel, Tableau, SQL , and Power BI.  
 
-- **Data Science & Engineering**: Develop and deploy machine learning models—including **predictive**, **NLP**, and **recommendation systems**—while designing **ETL/ELT pipelines** for efficient data processing.  
+- **Data Science & Engineering**: Develop and deploy machine learning models—including Predictive, NLP, and recommendation systems—while designing ETL/ELT pipelines for efficient data processing.  
 
-- **Statistical Analysis**: Apply advanced statistical modeling—such as **regression**, **time-series forecasting**, and **survival analysis**—to public health projects, including **HIV/AIDS**, **Cholera**, and **MPOX** studies.  
+- **Statistical Analysis**: Apply advanced statistical modeling—such as regression, Time-series forecasting, and survival analysis—to public health projects.
+  
+- **Research**: Currently working on Multilevel Structural Equation Modeling (MSEM) to support evidence-based decision-making in health and development research.  
 
-- **Research**: Currently working on **Multilevel Structural Equation Modeling (MSEM)** to support evidence-based decision-making in health and development research.  
 
-#  Skills
-###  Technical
-#### Python · R · SQL · C++ · Power BI · Tableau · TensorFlow · PyTorch · Scikit-learn · Keras · PostgreSQL · Azure AI Studio · Kobo Collect . Docker . Superset 
+#  Skills  
 
-###  Analytical
-#### Statistical Modeling · Forecasting · Hypothesis Testing · Data Visualization · A/B Testing · Time Series · Predictive Analytics · Data Modelling
+- **Technical**: Python · R · SQL · C++ · Power BI · Tableau · TensorFlow · PyTorch · Scikit-learn · Keras · PostgreSQL · Azure AI Studio · Kobo Collect · Docker · Superset  
 
-###  Soft Skills
-#### Problem Solving · Critical Thinking · Business Acumen · Communication · Teamwork · Leadership · Presentation · Data Storytelling
+- **Analytical**: Statistical Modeling · Forecasting · Hypothesis Testing · Data Visualization · A/B Testing · Time Series · Predictive Analytics · Data Modelling  
+
+- **Soft Skills**: Problem Solving · Critical Thinking · Business Acumen · Communication · Teamwork · Leadership · Presentation · Data Storytelling  
+
 
 #  Projects and Case Studies
 ##  1. Statistical Modeling & Health Analytics
@@ -59,7 +59,7 @@ Developed a classification model using PyTorch to detect plant diseases from lea
 ### Content-Based Recommendation System
 Built a recommendation engine using Python to suggest products based on user behavior and preferences. Integrated cosine similarity and TF-IDF vectorization to personalize suggestions for e-commerce users.
 
-## 📊 3. Data Analysis & Dashboarding
+## 3. Data Analysis & Dashboarding
 
 ### NGO Reporting System & Power BI Dashboard
 Designed and implemented a comprehensive PostgreSQL database to centralize program monitoring data for a local NGO. Built end-to-end ETL pipelines and connected the database to Power BI to automate reporting. Developed a dynamic dashboard to track KPIs, visualize program reach, and generate donor-ready impact reports — significantly improving reporting efficiency and transparency.
@@ -72,7 +72,7 @@ Built a dynamic sales dashboard in Power BI that tracked revenue, conversion rat
 
 
 
-# 💼 Experience
+#  Experience
 
 ###  Freelance Data Scientist – Upwork  Remote | Jan 2024 – Feb 2025
 
@@ -98,14 +98,14 @@ Built Excel forecasts reducing excess inventory by 8%.
 
 Maintained Tableau dashboards for real-time insights.
 
-# 📚 Education
+#  Education
 BSc. Statistics, Computing & IT - Cooperative University of Kenya
 
 ALX Data Science Program - Python · SQL · Data Viz · ML · Power BI
 
 Udemy Certifications - Machine Learning, Analytics, Storytelling, Data Engineering
 
-# 🎖️ Leadership & Volunteering
+#  Leadership & Volunteering
 Global Citizens Challenge (Team Lead): Led a diverse team in global sustainability challenges.
 
 Men’s Book Club (Moderator): Managed sessions, facilitated critical discussions, promoted learning.
