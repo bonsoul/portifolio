@@ -22,7 +22,7 @@
 
 - **Data Science & Engineering**: Develop and deploy machine learning models—including Predictive, NLP, and recommendation systems—while designing ETL/ELT pipelines for efficient data processing.  
 
-- **Statistical Analysis**: Apply advanced statistical modeling—such as regression, Time-series forecasting, and survival analysis—to public health projects.
+- **Statistical Modelling**: Apply advanced statistical modeling—such as regression, Time-series forecasting, and survival analysis—to public health projects.
   
 - **Research**: Currently working on Multilevel Structural Equation Modeling (MSEM) to support evidence-based decision-making in health and development research.  
 
@@ -74,7 +74,7 @@ Built a dynamic sales dashboard in Power BI that tracked revenue, conversion rat
 
 #  Experience
 
-###  Freelance Data Scientist – Upwork  Remote | Jan 2024 – Feb 2025
+###  Freelance Data Scientist – Upwork  Remote | Jan 2024 – Present
 
 Built ML models (classification, recommendation) with Python & Scikit-learn.
 
