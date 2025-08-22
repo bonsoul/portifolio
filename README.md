@@ -1,23 +1,42 @@
-# 👋 Hola, I'm a Data Scientist | Analyst 🧠📊
-### 📍 Nairobi, Kenya | 📧 bonsoul24@gmail.com | 📞 +254 700 015600
+
+<p align="center" style="font-size:40px;">
+  <b>Data Scientist | Analyst | Researcher</b>
+</p>
 
 
-# 🌟 About Me
-*From data to decisions — powering progress through intelligent insights.*
+<p align="center">
+  <em> From data to decisions — powering progress through intelligent insights. </em>
+</p>
 
-#### I’m a results-oriented Data Scientist passionate about transforming data into tools for innovation and sustainable impact. With hands-on experience across public health, logistics, and research, I specialize in machine learning, data visualization, and statistical modeling. Whether it’s predicting outbreaks or improving business decisions, I build data solutions that empower people and organizations alike.
 
-# 🧠 Skills
-### 🧰 Technical
-#### Python · R · SQL · C++ · Power BI · Tableau · TensorFlow · PyTorch · Scikit-learn · Keras · PostgreSQL · Azure AI Studio · Kobo Collect
+<p align="center">
+  <em> Nairobi, Kenya |  bonsoul24@gmail.com |  +254 700 015600 </em>
+</p>
 
-### 📊 Analytical
-#### Statistical Modeling · Forecasting · Hypothesis Testing · Data Visualization · A/B Testing · Time Series · Epidemiological Analytics · Data Modelling
 
-### 🤝 Soft Skills
+## Overview
+
+#### I solve problems using data—applying machine learning, visualization, and statistical modeling across business, public health, logistics, and research to drive innovation and impact.
+
+- **Data Analysis & Visualization**: Build interactive dashboards, extract insights, and produce reports using **Excel**, **Tableau**, and **Power BI**.  
+
+- **Data Science & Engineering**: Develop and deploy machine learning models—including **predictive**, **NLP**, and **recommendation systems**—while designing **ETL/ELT pipelines** for efficient data processing.  
+
+- **Statistical Analysis**: Apply advanced statistical modeling—such as **regression**, **time-series forecasting**, and **survival analysis**—to public health projects, including **HIV/AIDS**, **Cholera**, and **MPOX** studies.  
+
+- **Research**: Currently working on **Multilevel Structural Equation Modeling (MSEM)** to support evidence-based decision-making in health and development research.  
+
+#  Skills
+###  Technical
+#### Python · R · SQL · C++ · Power BI · Tableau · TensorFlow · PyTorch · Scikit-learn · Keras · PostgreSQL · Azure AI Studio · Kobo Collect . Docker . Superset 
+
+###  Analytical
+#### Statistical Modeling · Forecasting · Hypothesis Testing · Data Visualization · A/B Testing · Time Series · Predictive Analytics · Data Modelling
+
+###  Soft Skills
 #### Problem Solving · Critical Thinking · Business Acumen · Communication · Teamwork · Leadership · Presentation · Data Storytelling
 
-# 🧪 Projects and Case Studies
+#  Projects and Case Studies
 ##  1. Statistical Modeling & Health Analytics
 
 ### Cholera Surveillance & Forecasting (Kenya)
@@ -55,25 +74,25 @@ Built a dynamic sales dashboard in Power BI that tracked revenue, conversion rat
 
 # 💼 Experience
 
-### 💻 Freelance Data Scientist – Upwork 🌍 Remote | Jan 2024 – Feb 2025
+###  Freelance Data Scientist – Upwork  Remote | Jan 2024 – Feb 2025
 
 Built ML models (classification, recommendation) with Python & Scikit-learn.
 
 Developed automated pipelines using PostgreSQL and deployed dashboards in R.
 
-### 🤖 ML Intern – Technohacks Education  🌍 Remote | Jun 2024 – Sept 2024
+###  ML Intern – Technohacks Education  Remote | Jun 2024 – Sept 2024
 
 Preprocessed and structured data for TensorFlow/Keras models.
 
 Tuned parameters and boosted model accuracy by 10%.
 
-### 📈 Data Analyst – Samburu Awareness Action Program 📍 Samburu | Apr 2023 – Jan 2024
+###  Data Analyst – Samburu Awareness Action Program  Samburu | Apr 2023 – Jan 2024
 
 Designed centralized data systems with Kobo Collect + SQL.
 
 Improved program outcomes by 25% via data-informed strategies.
 
-### 🚚 Supply Chain Analyst Intern – Sendy Logistics 📍 Nairobi | May 2022 – Sept 2022
+###  Supply Chain Analyst Intern – Sendy Logistics  Nairobi | May 2022 – Sept 2022
 
 Built Excel forecasts reducing excess inventory by 8%.
 
